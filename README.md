@@ -1,1 +1,1 @@
-# programming-online-courses-emulator
+# Programming-Courses-Online-Shop-Emulator
